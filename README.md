@@ -1,2 +1,1 @@
-# Portfolio-new
-Sai Manoj Dintakurti Portfolio
+# portfolio.github.io
